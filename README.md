@@ -6,3 +6,6 @@ _Matéria com foco em backend._
 - Vite
 - TypeScript
 - JavaScript
+
+## 🏗️ Processo
+- 1ºAula: Introdução a exportações e estrutura REACT
